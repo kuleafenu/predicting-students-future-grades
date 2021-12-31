@@ -6,7 +6,7 @@ Liked it? Please give a ⭐️ to build this 💪 stronger.
     </a>
 </p>
 
-`Project Goal`: Analysing 10 thousand medium posts to derive insights on how to tweak your article to earn more claps from your readers.
+`Project Goal`: Predicting student academic grades with python.
 
 # 💻 Published on medium
 Please read all the insights from my medium page.
@@ -15,18 +15,18 @@ Please read all the insights from my medium page.
 
 
 # 🔥 What you will learn
-- Data gathering.
-- Data preprocessing
-- Exploratory Analysis
-- Data Visualization
-- ,etc
+- Introducing the algorithm, dataset and various libraries used for the project.
+- Understanding the data through Exploratory Data Analysis.
+- Data preprocessing and feature engineering.
+- Machine learning section; predictive modelling.
+- Saving and loading model as file.
 
 
-## 🔢 Information Summary
-- About the dataset in use.
-- Summary statistical report on data.
-- Answering the 9 most pressing questions.
-- Conclusion.
+## 🔢 Data Exploration summary
+- Checks how sex and age affects the student's grade.
+- Can student relationship status affects his/her grade.
+- Is there any impact parents educational level have on students performance.
+,etc
 
 # 🏗️ How to reproduce the project
 You can run this code locally with a few easy steps.
