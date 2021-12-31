@@ -2,7 +2,7 @@ Liked it? Please give a ⭐️ to build this 💪 stronger.
 # 👋 Introduction
 <p align="center">
     <a href="https://tryshape.vercel.app" target="blank"/>
-        <img src="./images/graph1.jpg" alt="Plot" />
+        <img src="./images/student_img.jfif" alt="Plot" />
     </a>
 </p>
 
