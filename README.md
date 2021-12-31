@@ -34,7 +34,7 @@ You can run this code locally with a few easy steps.
 1. Clone the repository
 
 ```bash
-Predicting student academic grades with python
+https://github.com/kuleafenu/predicting-students-future-grades.git
 ```
 
 2. Install dependencies
@@ -44,9 +44,9 @@ pip install pandas
 pip install numpy
 pip install seaborn
 pip install nltk
-```
+pip install -U scikit-learn
 
-3. Open the `main.ipynb` and run the cells.
+3. Open the `.ipynb` and run the cells.
 
 # 🛡️ License
 This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
